@@ -5,7 +5,7 @@ Tool to collect all time spent comments in Gitlab projects
 Gitlab TimeSpent is a console tool that I use to generate timesheet report for Gitlab projects.
 As the output, the tool generates a report in Excel format.
 
-![Excel report screenshot](https://github.com/xuthus/gitlab-timespent/raw/master/src/docs/excel1.png "Excel report screenshot")
+![Excel report screenshot](https://github.com/xuthus/gitlab-timespent/raw/master/docs/excel1.png "Excel report screenshot")
 
 All settings are stored in `settings.json` file.
 
