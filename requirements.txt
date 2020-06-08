@@ -1,0 +1,2 @@
+﻿pyslurpers
+xlsxwriter>=1.2.9
