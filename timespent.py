@@ -219,3 +219,5 @@ if __name__ == "__main__":
         dates_without_spent_time = tickets[ticket].dates
         if len(dates_without_spent_time) > 0:
             print("Warn: Ticket: {}: there are commits but no time spent: {}".format(ticket, dates_without_spent_time))
+
+    print("Note: Tickets that don't have merged MRs in specified period are not counted")
