@@ -24,3 +24,4 @@ Settings
 
 > Note: both of dates are inclusive. So to generate month report you should specify first and last days of the month.
 
+> Note: tickets where the user doesn't have merged MRs are not counted!
